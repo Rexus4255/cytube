@@ -5,6 +5,11 @@
 	font-style: normal !important;
 	font-weight: bold !important;
 }
+.userlist_op .username, .userlist_op {
+	color: #1c96ff !important;
+	font-style: normal !important;
+	font-weight: bold !important;
+}
 	/* -- body -- */
 
 body {overflow-x:hidden}
