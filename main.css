@@ -1,6 +1,10 @@
 /* ----- Smoothing default CyTube CSS (works without JS) ----- */
 
-
+.userlist_owner .username, .userlist_owner {
+	color: #d00 !important;
+	font-style: normal !important;
+	font-weight: bold !important;
+}
 	/* -- body -- */
 
 body {overflow-x:hidden}
